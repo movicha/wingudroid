@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/upload"
+        android:visible="true"
+        android:title="Upload"
+        android:showAsAction="ifRoom|withText"/>
+
+    <item android:id="@+id/delete_cache"
+        android:visible="false"
+        android:title="Delete"
+        android:showAsAction="ifRoom|withText"/>
+
+    <item android:id="@+id/refresh"
+        android:visible="false"
+        android:title="Refresh"
+        android:showAsAction="ifRoom|withText"/>
+
+    <item android:id="@+id/newdir"
+        android:visible="false"
+        android:title="New Folder"
+        android:showAsAction="never"/>
+
+    <item android:id="@+id/newfile"
+        android:visible="false"
+        android:title="New File"
+        android:showAsAction="never"/>
+
+</menu>

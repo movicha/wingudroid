@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Seafile</string>
+    <string name="app_url">http://wingufile.com</string>
+    <string name="welcome_to_wingufile">Welcome to Seafile</string>
+    <string name="select_account">Choose an account to start</string>
+    <string name="server_hint">Server, like cloud.wingufile.com</string>
+    <string name="email_hint">Email</string>
+    <string name="passwd_hint">Password</string>
+    <string name="open_file">Open</string>
+    <string name="download_file">Download</string>
+    <string name="redownload_file">Download again</string>
+    <string name="cancel_download">Cancel</string>
+    <string name="unknown_file_type">Unknown file type</string>
+    <string name="activity_not_found">Can not find App to open this file</string>
+    <string name="refresh">Refresh</string>
+    <string name="login">Login</string>
+    <string name="add_account">Add Account</string>
+    <string name="personal">Personal</string>
+    <string name="libraries">Libraries</string>
+    <string name="cached">Cached</string>
+    <string name="upload_tasks">UPLOADS</string>
+    <string name="activities">Activities</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="pick_upload_type">Upload</string>
+    <string-array name="pick_upload_array">
+        <item>File</item>
+        <item>Photos/Videos</item>
+        <item>Other</item>
+    </string-array>
+    <string name="choose_server">Choose a Seafile Server</string>
+    <string-array name="choose_server_array">
+        <item>Private Seafile Server</item>
+        <item>SeaCloud.cc</item>
+        <item>cloud.wingufile.com</item>
+    </string-array>
+    <string name="network_down">No network connection</string>
+    <string name="invalid_server_address">Invalid server address</string>
+    <string name="err_server_andress_empty">Server address can not be empty</string>
+    <string name="err_login_failed">Login failed</string>
+    <string name="err_wrong_user_or_passwd">Email or password error</string>
+    <string name="upload">Upload</string>
+    <string name="uploaded">Uploaded</string>
+    <string name="updated">Updated</string>
+    <string name="upload_failed">Upload failed</string>
+    <string name="download_failed">Download failed</string>
+    <string name="trust_https_server">The certification is not issued by a trusted organization, do you want to continue?</string>
+    <string name="upload_to">upload to: </string>
+    <string name="task_cancel">Cancel</string>
+    <string name="task_retry">Retry</string>
+    <string name="task_remove">Remove</string>
+    <string name="task_remove_all_finished">Remove all finished</string>
+    <string name="file_action_download">Download</string>
+    <string name="file_action_remove_cache">Remove Cache</string>
+    <string name="file_action_update">Update</string>
+    <string name="file_action_share">Share</string>
+    <string name="file_action_export">Export</string>
+    <string name="wait">Wait</string>
+    <string name="image_gallery_NoImageView_text">No image Found</string>
+    <string name="pick_photo_video_title">Choose photos/videos to upload</string>
+    <string name="select_upload_items">select items to upload</string>
+    <string name="n_upload_items_selected">%d items selected</string>
+    <string name="dir_name_empty">Please enter the name of the folder</string>
+    <string name="file_name_empty">Please enter the name of the file</string>
+    <string name="password_empty">Please enter the password</string>
+    <string name="wrong_password">wrong password</string>
+    <string name="library_read_only">This library is read-only</string>
+    <string name="error_when_load_dirents">Internal error</string>
+    <string name="error_when_load_repos">Internal error</string>
+    <string name="dir_empty">This folder is empty</string>
+    <string name="no_repo">You have no libraries yet</string>
+    <string name="no_app_available">No app can be found</string>
+    <string name="add_to_wingufile">Add to Seafile</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_account">Please setup an account in Seafile first</string>
+    <string name="no_library">You have no library yet</string>
+    <string name="choose_an_account">Choose an account</string>
+    <string name="choose_a_library">Choose a library</string>
+    <string name="choose_a_folder">Choose a folder</string>
+    <string name="load_accounts_fail">Failed to load wingufile accounts</string>
+    <string name="load_libraries_fail">Failed to load libraries</string>
+    <string name="load_dir_fail">Failed to load contents of this folder</string>
+    <string name="not_supported_share">This type of share is not supported</string>
+    <string name="create_new_file">Create a new file</string>
+    <string name="create_new_dir">Create a new folder</string>
+    <string name="download">Download</string>
+    <string name="open">Open</string>
+    <string name="last_modified">last modified</string>
+    <string name="file_size">file size</string>
+    <string name="library_not_found">The library have been deleted.</string>
+    <string name="export_file">Export this file</string>
+    <string name="no_upload_tasks">No upload tasks yet</string>
+</resources>
