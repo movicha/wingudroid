@@ -1,4 +1,4 @@
-# Seafile Android Client
+# Wingufile Android Client
 
 ## Dependencies
 
